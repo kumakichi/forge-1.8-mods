@@ -1,0 +1,7 @@
+* About
+
+  forge1.8 mod demos, using IDEA
+
+  how to build forge development environment with IDEA? see [[http://kumakichi.github.io/mc-forge.html][build minecraft forge development environment with IDEA]]
+
+  mainly comes from the book [[http://shop.oreilly.com/product/0636920036562.do][Minecraft Modding with Forge]] written by Arun Gupta and Aditya Gupta
